@@ -1,0 +1,10 @@
+D:\Programing\Things that do stuff\Visual Studio\Car system\bin\Debug\Car system.exe.config
+D:\Programing\Things that do stuff\Visual Studio\Car system\bin\Debug\Car system.exe
+D:\Programing\Things that do stuff\Visual Studio\Car system\bin\Debug\Car system.pdb
+D:\Programing\Things that do stuff\Visual Studio\Car system\obj\Debug\Car system.csproj.AssemblyReference.cache
+D:\Programing\Things that do stuff\Visual Studio\Car system\obj\Debug\Car_system.Form1.resources
+D:\Programing\Things that do stuff\Visual Studio\Car system\obj\Debug\Car_system.Properties.Resources.resources
+D:\Programing\Things that do stuff\Visual Studio\Car system\obj\Debug\Car system.csproj.GenerateResource.cache
+D:\Programing\Things that do stuff\Visual Studio\Car system\obj\Debug\Car system.csproj.CoreCompileInputs.cache
+D:\Programing\Things that do stuff\Visual Studio\Car system\obj\Debug\Car system.exe
+D:\Programing\Things that do stuff\Visual Studio\Car system\obj\Debug\Car system.pdb
